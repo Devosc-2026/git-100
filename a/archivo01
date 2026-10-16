@@ -1,2 +1,6 @@
 Linea 1 archivo01
+<<<<<<< HEAD
 linea 2 archivo01 hecha en local
+=======
+linea 1 archivo01 hecha en el remoto
+>>>>>>> fe55b21706f4c38e346b74beec23b1fd075ed8bb
